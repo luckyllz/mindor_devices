@@ -1,0 +1,1 @@
+# mindor_devices
