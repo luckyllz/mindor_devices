@@ -1,0 +1,20 @@
+{
+  "domain": "mindor_devices",
+  "name": "Mindor Devices",
+  "version": "1.2.0",
+  "dependencies": [
+    "mqtt"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/luckyllz/mindor_devices.git",
+  "requirements": [],
+  "codeowners": [
+    "@luckyllz"
+  ],
+  "iot_class": "local_push",
+  "supported_platforms": [
+    "switch",
+    "sensor",
+    "climate"
+  ]
+}
